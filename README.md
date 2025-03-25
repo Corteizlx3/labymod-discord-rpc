@@ -11,4 +11,4 @@ makes ur discord rpc look like ur on labymod, saw someone selling a tool that do
 5. pip install pypresence
 6. Run The Program And Input ServerIP, Your Minecraft Name & Minecraft Version.
 
-7. Enjoy, don't pay for < 30 lines of code.
+7. Enjoy, don't pay for > 30 lines of code.
